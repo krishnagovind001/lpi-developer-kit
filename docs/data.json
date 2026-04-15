@@ -23,6 +23,31 @@
       "score_pct": 82
     },
     {
+      "name": "Jahanvi Gupta",
+      "github": "Jahanvi3005",
+      "skills": [
+        "Python",
+        "React 19",
+        "Node.js",
+        "Machine Learning",
+        "FAISS",
+        "Next.js",
+        "MongoDB",
+        "RAG"
+      ],
+      "interests": [
+        "AI Agents",
+        "Data Engineering",
+        "Full-Stack Architecture",
+        "Knowledge Graphs"
+      ],
+      "track": "A: Agent Builders / D: 3D & Visualization",
+      "level": 3,
+      "score": 9,
+      "score_max": 11,
+      "score_pct": 82
+    },
+    {
       "name": "Aditya Pratap Singh",
       "github": "psinghaditya",
       "skills": [
